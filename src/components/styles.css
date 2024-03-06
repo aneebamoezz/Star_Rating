@@ -1,0 +1,17 @@
+.active {
+  color: #fff700;
+}
+
+.inactive {
+  color: #eee;
+}
+
+h1{
+    text-transform: uppercase;
+    color: darkmagenta;
+}
+
+.star-rating{
+    padding: 100px;
+    background: darkmagenta;
+}
